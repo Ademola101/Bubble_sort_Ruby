@@ -1,5 +1,6 @@
 def bubble_sort(array)
   return array if array.empty?
+
   loop do
     swapped = false
     (array.length - 1).times do |i|
@@ -8,13 +9,10 @@ def bubble_sort(array)
         swapped = true
       end
     end
-    break if not swapped
+    break unless swapped
   end
   array
 end
-
-
-my_array = [1,4,7,2,6]
 
 def bubble_sort_by(str_arry)
   str_arry.length.times do
