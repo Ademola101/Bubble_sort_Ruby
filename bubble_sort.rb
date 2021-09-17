@@ -1,7 +1,3 @@
-# Bubble sort: Ruby Implementation
-
-
-
 def bubble_sort(array)
   return array if array.empty?
   loop do
