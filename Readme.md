@@ -1,13 +1,12 @@
-# This is the Ruby implementation of Bubble sort and Bubble sort by algorithm
+# Ruby implementation of Bubble sort and Bubble sort by algorithm
 
 Sorting of data is one of the most essential aspect of data structure in Ruby. This is easily accomplished by Ruby built in sort method. The Bubble sort algorithm is an attempt to implement ny own sorting method in Ruby.
 
+## Built with
 
-
-## Built with:
 * Ruby
 
-### About the Project:
+### About the Project
 
 The code contains two methods
 
